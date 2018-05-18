@@ -5,6 +5,7 @@ boton.addEventListener("click", dibujoPorClick );
 var d = document.getElementById("dibujito");
 var ancho = d.width;
 var lienzo = d.getContext("2d");
+dibujito.style = "position:absolute; left: 50%; width: 400px; margin-left: -200px;";
 
 function dibujarlinea(color, xinicial, yinicial, xfinal, yfinal)
 {
