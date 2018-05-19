@@ -22,8 +22,8 @@ function dibujoPorClick()
     var lineas = parseInt(texto.value);
     var l = 0;
     var yi, xf;
-    var colorcito = "#FAA"
-    var colorcito1 = "#AAF"
+    var colorcito = "#000000"
+    var colorcito1 = "#ffffff"
     var xi, yf;
     var espacio = ancho / lineas;
 
