@@ -3,7 +3,7 @@ var papel = vp.getContext("2d");
 villaplatzi.style = "position:absolute; left: 50%; width: 400px; margin-left: -200px;";
 var fondo = {
   url: "tile.png",
-  cargaOK: false
+  cargaOK: false 
 }
 var vaca = {
   url: "vaca.png",
