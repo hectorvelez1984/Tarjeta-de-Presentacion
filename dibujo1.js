@@ -23,7 +23,7 @@ function dibujoPorClick()
     var l = 0;
     var yi, xf;
     var colorcito = "#000000"
-    var colorcito1 = "#ffffff"
+    var colorcito1 = "#000000"
     var xi, yf;
     var espacio = ancho / lineas;
 
