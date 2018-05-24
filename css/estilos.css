@@ -29,7 +29,7 @@ a {	text-decoration: none; }
 	.contenedor embed,
 	.contenedor video {
 		height: auto;	
-		max-width: 400%;
+		max-width: 300%;
 		width: 100%;
 }
 
